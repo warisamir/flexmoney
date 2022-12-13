@@ -1,8 +1,7 @@
 # Simple Yoga class registration form for Flexmoney Internship Assignment
 
-ER diagram for the project
-
-!ER(https://user-images.githubusercontent.com/89487901/207290123-c98dc10c-6c2e-4d3c-946b-d4edfde3f71f.png)
+### ER diagram for the project
+![ERdiagram](https://user-images.githubusercontent.com/89487901/207290123-c98dc10c-6c2e-4d3c-946b-d4edfde3f71f.png)
 
 ## Available Scripts
 
